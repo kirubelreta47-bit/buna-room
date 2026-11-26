@@ -1,0 +1,6 @@
+{
+  "name": "Buna Room",
+  "description": "Mobile menu, bill splitter, stamp rewards, and table games for a 15-seat college cafe in Addis Ababa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
